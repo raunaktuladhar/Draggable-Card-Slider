@@ -6,7 +6,7 @@ Vertical Draggable Card Slider A customizable vertical draggable card slider wit
 
 📂 Project Structure
 
-graphql Copy code project/ │ ├── index.html # Main HTML file ├── style.css # Styling for the slider and cards └── index.js # JavaScript logic for draggable slider and infinite scrolling
+graphql Copy code project/ │ ├── index.html # Main HTML file ├── style.css # Styling for the slider and cards └── script.js # JavaScript logic for draggable slider and infinite scrolling
 
 📄 Usage Instructions 1️⃣ HTML (index.html) This file defines the structure of the card slider.
 
